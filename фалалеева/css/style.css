@@ -1,0 +1,25 @@
+.header {
+    margin-top: 67px;
+    margin-left: 130px;
+    width: 1040px;
+    height: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.header__logo {
+    
+}
+.header__cartandgood {
+}
+.header__CART {
+}
+.header__goodies {
+}
+.offer__imgcenter {
+}
+.menu {
+}
+.menu__list {
+}
+.menu__listitem {
+}
